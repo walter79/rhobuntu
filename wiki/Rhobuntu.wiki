@@ -5,7 +5,11 @@ PM [Bombenbach |http://forum.xda-developers.com/private.php?do=newpm&u=2005180] 
 
 Forum
 
-* [Ubuntu on Rhodium |http://forum.xda-developers.com/showthread.php?t=640785]
+* http://forum.xda-developers.com/showthread.php?t=640785
+
+XDA-Developers Wiki
+
+* http://wiki.xda-developers.com/index.php?pagename=RhodiumUbuntu
 
 ----
 
