@@ -1,0 +1,97 @@
+The Google Code Project (Rhobuntu):
+for people who would like to contribute:              https://code.google.com/p/rhobuntu/
+
+PM [Bombenbach |http://forum.xda-developers.com/private.php?do=newpm&u=2005180] to get added to the project.
+
+Forum
+
+* [Ubuntu on Rhodium |http://forum.xda-developers.com/showthread.php?t=640785]
+
+----
+
+Right now Ubuntu only runs from [HaRET |http://wiki.xda-developers.com/index.php?pagename=HaRET] on a sd card.  No it is not available to flash to the internal memory yet.  It is still very much in the development stages.
+
+----
+Working as of: 03/11/10
+
+* Display + Calibration
+* Keyboard & Hardware Key Mappings
+* Backlight
+* WiFi (partial)
+* Shutdown
+* Charging
+* Install Apps via Synaptics (partial, not on all version)
+
+
+
+Features Not Working as of: 03/11/10
+
+* 3G
+* Radio
+* Full "Sleep"; Power Management
+* BT
+* Full Sound
+* GPS
+* Camera
+* etc.
+
+----
+
+Installation
+
+In order to run Ubuntu, start by [formating your sd card to Fat32 |http://thewingster.com/howformatfat32.aspx] (it may be necessary to perform a full format rather than "quick format").
+
+
+
+Simpy download the new build here: http://forum.xda-developers.com/showthread.php?t=640785 and copy all files to your sd card.
+
+
+Mirror: http://www.connect-utb.com/index.php?option=com_rokdownloads&view=file&Itemid=68&id=103:ubuntu-for-rhodium
+
+
+Next: run /Ubuntu/Haret.exe
+
+
+ONLY FOR EXPERIENCED USERS
+
+-for those real linux freaks out there: Ubuntu can be booted from an ext2/ext3 partition on your sd-card. No images! All changes are persistent! All you need is just an sd-card with two partitions (1st FAT32, 2nd ext2/3) and a special initrd.gz.
+Grab it here: http://www.megaupload.com/?d=S1YH6GA0
+Simpy mount Ubuntu.img via
+sudo mount Ubuntu.img /mnt -o loop
+run sudo nautilus and copy all files and folders from /mnt to the ext2/3 partition on the sd card (ignore errors). Then copy the Ubuntu folder containing haret.ext, start.txt,intrd.gz and zimage to the FAT32 partition. Replace initrd.gz with the special initrd.gz. Run haret.exe.
+
+----
+Keymapping for the Tilt 2/Touch Pro 2
+
+[http://c1.ac-images.myspacecdn.com/images02/135/l_0d2785b12441437788e20b5eb530c90c.jpg]
+
+Number|Button|Function
+
+1|Call button| 'Currently Unmapped'
+
+2| Windows Key|'Currently Unmapped'
+
+3| Back button|'Currently Unmapped'
+
+4| End button| 'Ctrl'
+
+5| Volume Up button| 'Tap'
+
+6| Volume Down button| 'Alt'
+
+7|  PTT button(Tilt2 Only)| 'Currently Unmapped'
+
+8| Power button| 'Esc'
+
+9| Rear mute button(WIth LED) | 'Currently Unmapped'
+<br>
+
+Keyboard:
+
+- The layout is Rhod100UK !!!
+- FN and Ctrl both act as Ctrl
+- Email is mapped to FN
+
+
+<br>
+----
