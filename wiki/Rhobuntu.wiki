@@ -10,3 +10,6 @@ Forum
 XDA-Developers Wiki
 
 * http://wiki.xda-developers.com/index.php?pagename=RhodiumUbuntu
+
+
+Please post problems only at the xda-developers forum!
