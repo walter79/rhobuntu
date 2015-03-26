@@ -1,0 +1,15 @@
+The Google Code Project (Rhobuntu):
+for people who would like to contribute:              https://code.google.com/p/rhobuntu/
+
+PM Bombenbach http://forum.xda-developers.com/private.php?do=newpm&u=2005180 to get added to the project.
+
+Forum
+
+**http://forum.xda-developers.com/showthread.php?t=640785**
+
+XDA-Developers Wiki
+
+**http://wiki.xda-developers.com/index.php?pagename=RhodiumUbuntu**
+
+
+Please post problems only at the xda-developers forum!
